@@ -22,7 +22,6 @@ elementoBtn.addEventListener("click", () => {
 
 
 
-
 // Validação do form
 
 const inputNome = document.querySelector('#nome')
